@@ -1,0 +1,1 @@
+/Users/mortezafaraji/Desktop/QuestDisplayAccessDemo-master/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2g2bt3t6/obj/arm64-v8a
